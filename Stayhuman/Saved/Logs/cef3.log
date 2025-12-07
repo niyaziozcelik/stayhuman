@@ -1,20 +1,3 @@
-[18740:29220:1206/010634.232:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18740:29220:1206/010634.375:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25392:30728:1206/010648.800:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DD61D43B70508CF52584653CAE3ED9DC will be ignored
-[18740:22800:1206/010650.138:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[18740:29220:1206/010650.467:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[18740:29220:1206/010650.467:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[18740:29220:1206/010650.468:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[18740:29220:1206/010650.468:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[18740:22800:1206/010650.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[28948:31948:1206/010904.943:WARNING:spdy_session.cc(2717)] Received RST for invalid stream33
-[28016:23200:1206/010904.955:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[28016:23200:1206/010904.955:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[28948:31948:1206/010905.578:WARNING:spdy_session.cc(2717)] Received RST for invalid stream45
-[28948:31948:1206/015955.851:WARNING:spdy_session.cc(2717)] Received RST for invalid stream63
-[30680:31900:1206/015958.809:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 14-AFBB1B81F9F33B30C8291CE40221EFA5 will be ignored
-[28948:31948:1206/020013.762:WARNING:spdy_session.cc(2717)] Received RST for invalid stream91
-[28948:31948:1206/020121.747:WARNING:spdy_session.cc(2717)] Received RST for invalid stream103
-[28948:31948:1206/020352.688:WARNING:spdy_session.cc(2717)] Received RST for invalid stream127
-[28948:31948:1206/020509.351:WARNING:spdy_session.cc(2717)] Received RST for invalid stream147
-[18740:29220:1206/034628.974:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5464:7524:1207/202954.620:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5464:7524:1207/202954.687:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5464:7524:1207/224332.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
